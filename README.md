@@ -39,7 +39,7 @@ Este repositório contém três ferramentas para detecção de emoções faciais
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/kramires/emotion-veracity-detector.git
+   git clone https://github.com/kramires/appEmotionDetection.git
    cd emotion-veracity-detector
    ```
 
